@@ -1,0 +1,22 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "A command line app to turn user input into a simple logo in SVG format",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
