@@ -4,7 +4,7 @@
 ## Description
 A command line app that takes user input to create an svg file of a custom logo. Users will enter up to 3 characters for the logo, choose the text color, shape and shape color. If successful, the file will be saved as a logo.svg file in the examples folder. 
 
-Link to demo video:
+![Link to Demo Video](https://drive.google.com/file/d/1fByjESh6aX-WPOoBpY47V1RkYQV7uJNf/view)
 
 ## Table of Contents
 * [Installation](#installation)
